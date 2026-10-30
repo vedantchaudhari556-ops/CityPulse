@@ -1,4 +1,3 @@
-# CityPulse
 # CityPulse — Smart City Emergency Response & Live Traffic Management
 
 > **Operational Geospatial Platform for Urban Incident Coordination, Hospital Discovery, and Real Road Routing**  
